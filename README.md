@@ -19,8 +19,7 @@
 ### Sobre mim:  
 <br>
 Sou estudante de Licenciatura em Computação 👾<br>
-Atualmente sou Jovem Aprendiz na <u>Tribanco</u>!<br>
-Estudando JavaScript atualmente, focada em ser <b>FullStack</b>! 👩‍💻
+Atualmente sou Jovem Aprendiz na <u>Tribanco</u>.<br>
 <br>  
   
 
