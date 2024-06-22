@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/raquelboaventura/raquelboaventura/output/snake.svg" alt="Snake animation" />
+![oi](https://github.com/raquelboaventura/raquelboaventura/blob/output/github-snake.svg)
 
 ###
